@@ -1,1 +1,1 @@
-# Customer-Segmentation-Supermarket
+# Customer Segmentation of Supermarket Purchases
