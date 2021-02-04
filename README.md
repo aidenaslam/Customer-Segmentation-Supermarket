@@ -1,1 +1,1 @@
-# Customer Segmentation of Supermarket Purchases
+# An implementation of a basic retrieval-based chatbot
