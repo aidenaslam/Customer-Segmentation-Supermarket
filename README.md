@@ -16,4 +16,8 @@ Chatbots have become increasingly popular to make it easy for users to find the 
 
 ## Modelling
 * A neural network with one hidden layer was considered using TensorFlow with 128 neurons in the first layer, 64 in the second layer and an ouptut layer consisting of the number of neurons equal to the number of classes. The activation function used was relu for the first two layers and softmax for the output layer. Backpropagation was carried out using stochastic gradient descent.
-<img src="https://github.com/aidenaslam/Retrieval-Chatbot/blob/master/Neural_Network.PNG" width="150" height="300" />
+<img src="https://github.com/aidenaslam/Retrieval-Chatbot/blob/master/Neural_Network.PNG" width="500" height="300" />
+
+## Deployment
+* Using the Twilio WhatsApp Sandbox API and Flask, the model was deployed to allow the interaction of the chatbot directly in WhatsApp. 
+* Below is a screenshot of a sample conversation with the chatbot. Given the lack of data, the interaction with the chatbot is very simplistic but the application of such a model in reality can really prove to help your customers!
