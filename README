@@ -1,0 +1,5 @@
+Whatsapp Chatbot README
+- Run bot_AA.py (python3 bot_AA.py)
+- open new terminal window and run "ngrok http 5000"
+- Copy forwarding address to Twilio Whatsapp Sandbox Settings with suffix "/bot"
+- Send message on Whatsapp
