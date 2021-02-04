@@ -21,3 +21,4 @@ Chatbots have become increasingly popular to make it easy for users to find the 
 ## Deployment
 * Using the Twilio WhatsApp Sandbox API and Flask, the model was deployed to allow the interaction of the chatbot directly in WhatsApp. 
 * Below is a screenshot of a sample conversation with the chatbot. Given the lack of data, the interaction with the chatbot is very simplistic but the application of such a model in reality can really prove to help your customers!
+<img src="https://github.com/aidenaslam/Retrieval-Chatbot/blob/master/Screenshot_Chatbot.PNG" width="300" height="550" />
